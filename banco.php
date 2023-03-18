@@ -5,7 +5,7 @@
 
 include 'src/Conta.php';
 
-//CRIAÇÃO DE DOIS OBJETOS
+
 $contatitular1 = new Conta(100,'Titular 1','11111111111', 01);
 $contatitular2 = new Conta(200,'Titular 2','22222222222', 02);
 
